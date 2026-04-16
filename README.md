@@ -30,10 +30,4 @@ Data scientist with an MS from the University of Washington, Seattle. I like wor
 
 ---
 
-### LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/124578-uw?theme=dark&ext=heatmap)
-
----
-
 🧋 boba tea loyalist &nbsp;·&nbsp; 📺 Schitt's Creek on rotation &nbsp;·&nbsp; 
